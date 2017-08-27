@@ -1,0 +1,18 @@
+Write at least one more function of your own design, and run it 10 different ways. pg 88
+filename.seek(0)
+open
+flush
+non blocking mode
+decorator expression (pydoc def)
+lambda expressions
+doubt test.py
+ex39
+ex42 last 3 comment left
+
+
+////////////////////////////////////////////
+
+CODE aNALYSIS DOUBT
+-------------------
+
+
